@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zepartt
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Java CSS HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ☯   Zepart  ☯#7602
 
 <!---
 Zepartt/Zepartt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
